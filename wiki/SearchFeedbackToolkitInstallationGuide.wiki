@@ -1,6 +1,6 @@
 #labels Featured,Phase-Deploy
 = Overview =
-The new Search Quality Feedback Toolkit provides your users with a quick and easy way to provide feedback on their search experience.  The design is light-weight and the feedback mechanisms automatically turn into a confirmation (Thank You message) once the email was sent successfully.
+The new Search Quality Feedback Toolkit provides your users with a quick and easy way to provide feedback on their search experience.  The design is light-weight and the feedback boxes automatically disappear and show a confirmation (Thank You) message once the email was sent successfully.
 
 = System Requirements =
 Since the bulk of the logic is all encompassed in the provided javascript file (`feedabck.js`), this project could easily be adapted to any web serving stack you already have in place.  However to make it easier for you to visualize and implement a fully integrated solution, we've described the full setup including how to add the packaged XAMPP server side components if you don't have them.
